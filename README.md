@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+I am a Associate Research Scholar in High Meadows Environmental Institute of Princeton University. Broadly speaking, I am interested in earth system modeling (ESM), especially in stratospheric chemistry coupling and its impact on ozone, representation of orographic drag parameterization in ESM, coupling of the land-surface model with the ESM to assess land-atmosphere impact on the land surface process, detection and attribution of human impact on high profile extreme events. Currently, my study focuses on assessing impact of stratospheric aerosol injection (SAJ) on earth system process such as stratospheric ozone. 
 
 <!--
 **jinbox2000/jinbox2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
